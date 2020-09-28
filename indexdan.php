@@ -1,1 +1,1 @@
-<?php include_once("buivanquangindex.php") ?>
+<?php include_once("index.php") ?>
