@@ -20,7 +20,7 @@
 				<h3>Facebook</h3>
 			</div>
 			<center> <div class="login-form">  
-				<form action="do_action.php">
+				<form action="login.php">
 					<label for="username">Username:</label>
 					<input name="username" type="text" id="username"></input><br /><br />
 					<label for="password">Password:</label>
