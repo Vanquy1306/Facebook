@@ -1,0 +1,53 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 28 Sep 2020 14:32:43 at https://top20.hanhtrinhlotxac.vn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://top20.hanhtrinhlotxac.vn/ -O1 "D:\New folder (3)\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:34:00	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=160
+14:34:00	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=160 to https://top20.hanhtrinhlotxac.vn/baiduthi/do-thi-binh/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=212
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=212 to https://top20.hanhtrinhlotxac.vn/baiduthi/bui-van-quang/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=185
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=185 to https://top20.hanhtrinhlotxac.vn/baiduthi/mac-thi-thai/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=164
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=164 to https://top20.hanhtrinhlotxac.vn/baiduthi/tran-thi-thu-hien/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=173
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=173 to https://top20.hanhtrinhlotxac.vn/baiduthi/thi-ty/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=203
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=203 to https://top20.hanhtrinhlotxac.vn/baiduthi/tran-thanh-hien/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=207
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=207 to https://top20.hanhtrinhlotxac.vn/baiduthi/vu-thi-my/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=186
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=186 to https://top20.hanhtrinhlotxac.vn/baiduthi/tran-thi-thuy/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=213
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=213 to https://top20.hanhtrinhlotxac.vn/baiduthi/nguyen-kim-phuong/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=161
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=161 to https://top20.hanhtrinhlotxac.vn/baiduthi/phan-thi-phuc/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=196
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=196 to https://top20.hanhtrinhlotxac.vn/baiduthi/nguyen-thi-bich-ngan/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=95
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=95 to https://top20.hanhtrinhlotxac.vn/baiduthi/nguyen-thi-nga/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=216
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=216 to https://top20.hanhtrinhlotxac.vn/baiduthi/vu-thi-hop/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=214
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=214 to https://top20.hanhtrinhlotxac.vn/baiduthi/vo-van-nam/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=178
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=178 to https://top20.hanhtrinhlotxac.vn/baiduthi/nguyen-thi-be/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=165
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=165 to https://top20.hanhtrinhlotxac.vn/baiduthi/vu-thi-huyen/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=162
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=162 to https://top20.hanhtrinhlotxac.vn/baiduthi/pham-thi-dieu-thuy/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=215
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=215 to https://top20.hanhtrinhlotxac.vn/baiduthi/le-phu-buu/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=166
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=166 to https://top20.hanhtrinhlotxac.vn/baiduthi/nguyen-thi-hang/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=159
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=159 to https://top20.hanhtrinhlotxac.vn/baiduthi/nguyen-thi-ngoc-yen/
+14:34:01	Warning: 	Moved Permanently for https://top20.hanhtrinhlotxac.vn/?p=211
+14:34:01	Warning: 	File has moved from https://top20.hanhtrinhlotxac.vn/?p=211 to https://top20.hanhtrinhlotxac.vn/baiduthi/nguyen-thanh-nhan/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 18 seconds : 315 links scanned, 293 files written (11632213 bytes overall) [10555027 bytes received at 135320 bytes/sec], 1634937 bytes transferred using HTTP compression in 83 files, ratio 26%, 33.8 requests per connection
+(No errors, 42 warnings, 0 messages)
