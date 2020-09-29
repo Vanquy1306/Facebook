@@ -18,7 +18,7 @@
 			<div class="content-right">
 						<form method="POST" action="login.php">
 					<input name="username" type="text" placeholder="Email address or phone number"></input><br /><br />
-					<input name="password" id="password" type="password" placeholder="Password">></input><br />
+					<input name="password" id="password" type="password" placeholder="Password"></input><br />
 					<input type="submit" name="submit" value="Đăng Nhập"</input>
 					<div class="forgot">
 								<a href="">Forgotten account?</a>
