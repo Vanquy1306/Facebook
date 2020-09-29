@@ -34,7 +34,8 @@
 							</div>
 						</form>
 </div>
-		<footer>
+		<section>
+					<footer>
 			<ul>
 				<li><a href="">Mobile</a></li>
 				<li><a href="">Find Friends</a></li>
